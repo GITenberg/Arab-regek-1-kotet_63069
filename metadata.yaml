@@ -1,0 +1,38 @@
+_repo: Arab-regek-1-kotet_63069
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vörösmarty, Mihály
+    aliases:
+    - Vorosmarty, Mihaly
+    - Vorosmarthy, Michael
+    - Vorosmarti, Mihaly
+    - Vörösmarti, Mihály
+    birthdate: 1800
+    deathdate: 1855
+    gutenberg_agent_id: '52265'
+    url: http://www.gutenberg.org/2009/agents/52265
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Mih%C3%A1ly_V%C3%B6r%C3%B6smarty
+    - https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6smarty_Mih%C3%A1ly
+description: ''
+gutenberg_issued: '2020-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63069'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Tales'
+- !lcsh 'Folk literature'
+- GITenberg
+tableOfContents: A halász története a szellemmel -- A hajózó Szindbád története --
+  Abulhasszán Aly Ebn Bekár, és Harun Arresyd kedvencz néje Semsz el Nihár története
+  -- Kamaralszamán a chaledáni királyfi s Badur chinai királykisasszony szerelmi története
+  -- Nureddin s a szép persa nő története -- Szeyn Alaznám herczeg és a szellemek
+  királya története.
+title: Arab regék (1. kötet)
+url: http://www.gutenberg.org/ebooks/63069
